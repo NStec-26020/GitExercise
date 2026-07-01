@@ -10,7 +10,6 @@ public class App {
 
     public static void main(String[] args) {
         // ゲームを開始
-        GameManagerImpl gameManagerImpl = new GameManagerImpl();
-        gameManagerImpl.start();
+
     }
 }
