@@ -6,7 +6,7 @@ package numer0n;
 
 import numer0n.factory.service.GameManagerFactory;
 import numer0n.service.GameManager;
-import numer0n.service.impl.GameManagerImpl;
+
 
 public class App {
 
